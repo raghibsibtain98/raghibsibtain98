@@ -2,15 +2,19 @@
 
 I'm a **working professional** with a passion for building robust and scalable backend systems. I enjoy solving real-world problems with clean code and solid architecture.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibtainraghib/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sib_e_n_d98/)
+
+
 ---
 
 ### 💻 Tech Stack
 
-- **Languages & Frameworks**: Java, Spring Boot  
+- **Languages & Frameworks**: Java, HTML, CSS, Javascript, Spring Boot  
 - **Databases**: SQL, MongoDB, JPA  
-- **Architecture**: Microservices  
-- **DevOps & Tools**: Jenkins, Git, GitHub  
-- **CS Fundamentals**: Data Structures & Algorithms
+- **Architecture**: Monolithic, Microservices  
+- **DevOps & Tools**: Jenkins, Git, GitHub, Talend  
+- **CS Fundamentals**: Data Structures & Algorithms, Network fundamentals
 
 ---
 
@@ -19,12 +23,6 @@ I'm a **working professional** with a passion for building robust and scalable b
 - Building scalable backend services  
 - Exploring system design and performance optimization  
 - Constantly learning and improving my craft
-
----
-
-### 📫 Let's connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibtainraghib/)
 
 ---
 
