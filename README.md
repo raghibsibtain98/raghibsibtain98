@@ -14,7 +14,7 @@ I'm a **working professional** with a passion for building robust and scalable b
 - **Databases**: SQL, MongoDB, JPA  
 - **Architecture**: Monolithic, Microservices  
 - **DevOps & Tools**: Jenkins, Git, GitHub, Talend  
-- **CS Fundamentals**: Data Structures & Algorithms, Network fundamentals
+- **CS Fundamentals**: Data Structures & Algorithms, OOP, Network fundamentals
 
 ---
 
