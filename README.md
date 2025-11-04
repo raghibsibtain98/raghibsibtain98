@@ -10,7 +10,7 @@ I'm a **working professional** with a passion for building robust and scalable b
 
 ### 💻 Tech Stack
 
-- **Languages & Frameworks**: Java, Javascript, Spring Boot, Golang
+- **Languages & Frameworks**: Java, Javascript, Spring Boot, Spring AI, Golang
 - **Databases**: SQL, MongoDB, JPA  
 - **Architecture**: Monolithic, Microservices  
 - **DevOps & Tools**: Jenkins, Git, GitHub, Talend  
